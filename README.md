@@ -1,1 +1,42 @@
-# js-lectures-master
+# Phase 3 JavaScript Lectures
+
+Here are all the prerecorded lectures for Phase 3, along with links to any lecture code.
+
+- History of JavaScript
+  - [video](https://youtu.be/a7f8eDoprNY)
+- How to work on labs
+  - [video](https://youtu.be/0cVcSkx5I0o)
+- JavaScript Fundamentals
+  - [Scrimbal Links](https://github.com/ihollander/js-fundamentals-playlist)
+- DOM Manipulation
+  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybwcFpuyvwuDjQ_D0Z8sQ1iE)
+  - [Repo](https://github.com/ihollander/js-lectures-dom-manipulation)
+- Event Handling
+  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybyAnzHb-wMic51nUNZpBZkQ)
+  - [Repo](https://github.com/ihollander/js-lectures-event-handling)
+- Advanced Event Handling
+  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybzCxJPHrUuZmiSJJA8_oS6e)
+  - [Repo](https://github.com/ihollander/js-lectures-advanced-event-handling)
+- Asynchronous JavaScript and Fetch
+  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybzSIU0jajn7JT5OQmE8xDQY)
+  - [Repo](https://github.com/ihollander/js-lectures-async-javascript-and-fetch)
+- Fetch CRUD
+  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybybFJ0Fg53hpkw0a3wGXZ1u)
+  - [Repo](https://github.com/ihollander/js-lectures-fetch-crud)
+- Rails as an API
+  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5Zyby14ZyA2P3jmjwwRbSvnOoW)
+  - [Repo](https://github.com/ihollander/js-lectures-rails-as-an-api)
+- Rails Serializers
+  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybyK6tUJa7SLIY-c9O8Qp5cU)
+  - [Repo](https://github.com/ihollander/js-lectures-rails-serializers)
+- Modern Javascript
+  - [Scrimbal Links](https://github.com/ihollander/modern-js-playlist)
+- Practical OOJS
+  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybxSag7J-ZaKQB3d8Fa7wCOL)
+  - [Repo](https://github.com/ihollander/js-lectures-oojs/tree/master/practical-oojs)
+- `this` and Execution Context
+  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybxNfdsWJf4_Iny6dpD1SCtD)
+  - [Repo](https://github.com/ihollander/js-lectures-oojs/tree/master/this-and-execution-context)  
+- Prototypal Inheritance
+  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybyhTm_BOyyysiym3Ij50vFU)
+  - [Repo](https://github.com/ihollander/js-lectures-oojs/tree/master/prototypal-inheritance)  
